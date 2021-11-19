@@ -1,0 +1,2 @@
+2021-11-19 14:27:18  INFO TrackingController: /report: file=37919, request={"msisdn":"0964532407","media_type" : "JPG"}
+2021-11-19 14:27:18  INFO TrackingController: /report: response=DncResponse{errorCode='OK', errorDesc='Thành công', data=null}
